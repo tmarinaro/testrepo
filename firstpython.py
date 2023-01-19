@@ -1,3 +1,3 @@
 # Display the output
 
-print("New Pythin file")
+print("New Python file")
